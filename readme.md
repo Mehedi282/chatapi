@@ -1,0 +1,4 @@
+Setup
+-
+- yarn
+- yarn start
